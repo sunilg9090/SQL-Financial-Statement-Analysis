@@ -1,0 +1,19 @@
+Section,Line_Item,2018,2019,2020
+1. Operating Activities,Net Profit,623856,1927003,3216948
+1. Operating Activities,Add: Depreciation,387996,904596,1603476
+1. Operating Activities,Add: Amortization,19008,34464,50424
+1. Operating Activities,Change in Receivables,-551614,-780462,-1253994
+1. Operating Activities,Change in Inventory,-105834,-522363,-1326242
+1. Operating Activities,Change in Trade Payables,137668,238818,369984
+1. Operating Activities,Change in Other Payables,447278,621575,670464
+1. Operating Activities,TOTAL - Operating (CFO),958358,2423631,3331060
+2. Investing Activities,Purchase of PPE,776004,2028804,3677220
+2. Investing Activities,Purchase of Intangibles,75992,152786,237146
+2. Investing Activities,Purchase of Investments,258667,642667,1314667
+2. Investing Activities,Gain/Loss on Asset Sales,4850,9935,16286
+2. Investing Activities,TOTAL - Investing (CFI),1115513,2834192,5245319
+3. Financing Activities,Share Capital Raised,2666667,6462667,8105867
+3. Financing Activities,Dividends Paid,-259667,-579467,-974459
+3. Financing Activities,Long Term Borrowings,260000,567500,931197
+3. Financing Activities,TOTAL - Financing (CFF),2667000,6450700,8062605
+4. Net Change in Cash,NET CASH MOVEMENT,4740871,11708523,16638984

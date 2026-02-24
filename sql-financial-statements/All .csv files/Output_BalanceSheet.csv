@@ -1,0 +1,113 @@
+Country,Report,Class,SubClass,SubClass2,Account,SubAccount,2018,2019,2020
+Australia,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,175967,488765,116996
+Australia,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,5151,26735,100842
+Australia,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,7198,86686,267224
+Australia,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,28000,73000,165160
+Australia,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,85278,35794,28373
+Australia,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,8400,18150,29220
+Australia,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,84000,232800,442536
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,45319,132296,241745
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,17500,19925,19613
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,140,205,255
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,14447,23216,36402
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,18667,36867,64839
+Australia,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,28000,63750,109433
+Australia,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-28000,-65050,-116998
+Australia,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,17921,-49279,-238938
+Australia,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,280000,800000,1034000
+Canada,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,215930,392562,347166
+Canada,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,5055,14803,36420
+Canada,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,4502,30357,75223
+Canada,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,26667,56667,95067
+Canada,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,40505,75519,110746
+Canada,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,7996,13996,19396
+Canada,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,80004,176004,281604
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,4230,6608,9541
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,16667,20417,23017
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,133,183,213
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,13758,15480,17338
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,11667,18667,26227
+Canada,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,26667,51667,75767
+Canada,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-26667,-52667,-77627
+Canada,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,67537,172886,260479
+Canada,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,266667,526667,630667
+France,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,225141,721889,696908
+France,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,5151,26735,100842
+France,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,4942,38552,119316
+France,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,28000,73000,165160
+France,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,85278,35794,28373
+France,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,8400,18150,29220
+France,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,84000,232800,442536
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,8987,-23190,-103622
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,17500,19925,19613
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,140,205,255
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,14447,23216,36402
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,12833,21933,35541
+France,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,28000,63750,109433
+France,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-28000,-65050,-116998
+France,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,107005,306131,567731
+France,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,280000,800000,1034000
+Germany,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,240738,705583,593975
+Germany,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,6663,31175,111768
+Germany,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,8548,65427,177592
+Germany,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,36000,90000,193680
+Germany,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,97442,58453,61595
+Germany,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,10800,22344,35034
+Germany,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,108000,285600,527016
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,46555,50838,34574
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,22500,26050,26518
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,180,260,319
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,18573,27859,41601
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,22167,37567,56467
+Germany,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,36000,79250,132163
+Germany,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-36000,-80850,-140286
+Germany,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,38216,159608,326104
+Germany,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,360000,958000,1223200
+New Zealand,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,175967,637337,530222
+New Zealand,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,5151,28704,104283
+New Zealand,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,59950,100026,211871
+New Zealand,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,28000,73000,165160
+New Zealand,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,85278,217482,645535
+New Zealand,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,8400,18150,29220
+New Zealand,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,84000,232800,442536
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,18062,21632,16359
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,17500,19925,19613
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,140,205,255
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,14447,23216,36402
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,18667,29517,46527
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,28000,63750,109433
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-28000,-65050,-116998
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,97930,414304,983236
+New Zealand,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,280000,800000,1034000
+UK,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,375001,581825,368119
+UK,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,8852,32705,84461
+UK,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,7198,84396,133753
+UK,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,32000,77000,138440
+UK,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,36320,95847,-58328
+UK,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,7996,13996,20056
+UK,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,96000,244800,388992
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,10864,15029,-60803
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,20000,24875,27995
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,187,262,298
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,20638,23216,24268
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,18667,31267,39583
+UK,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,33333,65333,94468
+UK,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-33000,-66800,-96752
+UK,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,92678,299387,256436
+UK,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,400000,738000,790000
+USA,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,647761,1368031,1156490
+USA,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,15163,54165,162240
+USA,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,13496,116919,341263
+USA,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,80000,200000,392000
+USA,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,121513,261573,437700
+USA,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,24000,48000,75000
+USA,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,240000,624000,1152000
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,12692,22212,36869
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,50000,65000,78000
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,400,600,750
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,41272,61910,86674
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,35000,63000,100800
+USA,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,80000,180000,300500
+USA,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,-80000,-184000,-308800
+USA,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,202569,623966,1061900
+USA,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,800000,1840000,2360000
