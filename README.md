@@ -59,8 +59,11 @@ Balance Check: PASS (Assets = Liabilities + Equity)
 ## 📈 Financial Statements Preview
 
 <p align="center">
-  <img src="pl-statement-output.png" width="49%" alt="P&L">
-  <img src="balance-sheet-output.png" width="49%" alt="Balance Sheet">
+  <img src="pl-statement-output.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="balance-sheet-output.png" width="100%">
 </p>
 ## 📐 Financial Ratios
 
