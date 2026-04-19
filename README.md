@@ -1,7 +1,7 @@
 # 📊 Automated Financial Reporting Engine — SQL-Powered FP&A Intelligence
 
 **Author:** G. Suneel · Finance Data Analyst | SQL · Power BI · Financial Intelligence  
-**Tech Stack:** SQL Server (T-SQL) · Window Functions · CTEs · Data Modelling  
+**Tech Stack:** SQL Server   · Window Functions  · Data Modelling  
 **Dataset:** Multi-Country General Ledger · 7 Countries · Fiscal Years 2018–2020  
 
 > Built to replicate real-world multi-entity financial reporting workflows used in FP&A teams.
